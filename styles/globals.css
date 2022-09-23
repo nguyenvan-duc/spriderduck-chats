@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.tox .tox-edit-area__iframe{
+    background-color: transparent !important;
+}
+.bg{
+    background-color: #c6c2c2;
+}
